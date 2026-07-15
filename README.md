@@ -1,4 +1,4 @@
-# papa-reymi
+# Repositorio
 Primer repositorio creado en github 14 de julio 2026
-## Descripcio
+## Descripcion
 Este es un repositorio que hice por el video de soy Dalto
